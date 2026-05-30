@@ -4,7 +4,7 @@
 
 Created on Fri Apr 17 18:50:13 2020
 
-@author: ABDELAZIZ Hassan et OUEIDAT Mouahmed
+@author:  Notoor et OUEIDAT
 
 """
 
